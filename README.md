@@ -31,7 +31,7 @@ Each section is accessible via the top navigation bar and is built for responsiv
 
 ## 📸 Screenshot
 
-![Landing Page Preview](./94f52a99-5cf6-4ffc-ac9f-377554bd3525.png)
+![Landing Page Preview](./landing-preview.png)
 
 ## 🔧 Setup & Usage
 
