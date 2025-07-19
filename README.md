@@ -37,7 +37,7 @@ Each section is accessible via the top navigation bar and is built for responsiv
 
 1. **Clone or Download this repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Snehasich/SCT_WD_1.git
    
 2. **Open the project**
 
