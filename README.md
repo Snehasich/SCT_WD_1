@@ -27,7 +27,7 @@ Each section is accessible via the top navigation bar and is built for responsiv
 
 ## 🔗 Live Demo
 
-👉 *Live demo can be added via GitHub Pages*
+👉 [View Live Demo](https://snehasich.github.io/SCT_WD_1/)
 
 ## 📸 Screenshot
 
